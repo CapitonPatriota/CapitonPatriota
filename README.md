@@ -11,4 +11,4 @@
 
 Qualquer dúvida entre em contato
 <a href="xxxxxxxxxxxxx@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"/></a>
-[![](([https://media1.tenor.com/m/zxfAL2yMk2cAAAAC/homelander-devastated.gif](https://media1.tenor.com/m/_OpcQFS-NMgAAAAC/broly-running.gif)))](https://media1.tenor.com/m/_OpcQFS-NMgAAAAC/broly-running.gif)
+![](https://media1.tenor.com/m/_OpcQFS-NMgAAAAC/broly-running.gif)
